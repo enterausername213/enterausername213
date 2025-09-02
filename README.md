@@ -1,3 +1,5 @@
+[ [EN](https://github.com/enterausername213/enterausername213/blob/main/README_EN.MD) | RU ]
+
 # 👋 Привет!
 
 Приветствую, я **[enterausername213]**, также известен как **[greeq_.]** и **[redbulll_hall]**.  
