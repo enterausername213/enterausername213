@@ -1,10 +1,12 @@
-## Васап брат, я greeq_. или же redbulll_hall, как хочешь
-- я обитаю в дискорде (greeq_.) или же в телеграмме (t.me/@redbulll_hall).
-- я изучаю шарпы
-- я прошиваю телефоны
-# i use arch btw
-- да я еблан
-- да я говорю всем что я юзаю арч
-# i use win11 btw
-- да я нормис
-- я ненваижу убунту
+# 👋 Привет!
+
+Приветствую, я **[enterausername213]**, также известен как **[greeq_.]** и **[redbulll_hall]**.  
+
+Я контрибьютер в проект **[progzone122/bestboys](https://github.com/progzone122/bestboys)** и также работаю с **[MotorolaMobilityLLC/kernel-mtk](https://github.com/MotorolaMobilityLLC/kernel-mtk)**, Больше про это тут:  [ссылка на ишшуй](https://github.com/MotorolaMobilityLLC/kernel-mtk/issues/174)
+
+📱 Занимаюсь прошивкой телефонов и эксперементами с кастомными прошивками.  
+💻 Использую операционные системы: **Windows 11** и **Arch Linux**.  
+📥 Связатся со мной можно в дискорде **[greeq_.]** и телеграмме **[redbulll_hall](t.me/redbulll_hall)**
+
+---
+✉️ Буду рад помощи и информации по поводу проэктов над которыми работаю!
