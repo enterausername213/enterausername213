@@ -1,3 +1,5 @@
+[ EN | [RU](https://github.com/enterausername213/enterausername213/blob/main/README.md) ]
+
 # 👋 Hello!
 
 Hi, I’m **[enterausername213]**, also known as **[greeq_.]** and **[redbulll_hall]**.  
